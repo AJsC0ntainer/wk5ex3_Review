@@ -62,7 +62,8 @@ class Program
         //Confirmation message after contact added
         Console.WriteLine("Page visited successfully!");
     }
-    //Go back method
+
+
     static void GoBack(Stack<string> BrowserHistory)
     {
         //Condition to check the stack count
